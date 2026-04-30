@@ -50,13 +50,6 @@ http://localhost:8000/docs
 
 ---
 
-## Como Executar os Testes
-
-```bash id="g6p7rw"
-py -m pytest
-```
-
----
 
 ## Endpoints Disponíveis
 
