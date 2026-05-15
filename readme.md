@@ -50,6 +50,24 @@ http://localhost:8000/docs
 
 ---
 
+## Como Executar os Testes
+
+### Testes automatizados com Pytest
+
+```bash
+py -m pytest
+```
+
+### Testes no Postman
+
+Executar as requisições da collection:
+
+```txt
+docs/postman_collection.json
+```
+
+---
+
 
 ## Endpoints Disponíveis
 
